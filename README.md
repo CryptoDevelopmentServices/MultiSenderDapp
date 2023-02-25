@@ -7,4 +7,7 @@ Install dependencies:
 npm install ethers @openzeppelin/contracts react react-dom
 ```
 
-
+start:
+```bash
+npm start
+```
